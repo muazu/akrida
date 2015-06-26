@@ -1,0 +1,313 @@
+
+
+#main {
+  margin-top: 50px;
+}
+
+.jumbotron {
+	
+	background: url("http://www.albeet.com/uploads/image/e4e8d183afbf7651ec7eed201bf8668d.jpg");
+	position: relative;
+	width: 100%;
+	color: white;
+    background-size: cover;
+    padding-bottom: 15em;
+
+}
+
+.sec_white_clean {
+	padding-top: 1.5em;
+	padding-bottom: 5em;
+	
+}
+
+.sec_1 {
+	padding-bottom: 0em;
+}
+
+
+.sec_gray_clean {
+	padding-top: 4em;
+	padding-bottom: 5em;
+	background-color: #eee;
+}
+
+
+
+.section_4 {
+	background-color: #eee;
+}
+
+.rule-in-sec {
+	border-color: black;
+	width: 20%
+}
+
+
+
+.headtags {
+	font-size: 2em;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding-bottom: 1em;
+	font-family: "Gotham A","Gotham B",Helvetica,Arial,"Lucida Grande",sans-serif;
+	color: #5b5b5b;
+}
+
+
+.midtags {
+	color: #5b5b5b;
+  	font-family: Avenir,Helvetica,Arial,"Lucida Grande",sans-serif;
+  	font-size: 1.5em;
+  	letter-spacing: .02em;
+  	font-weight: 800;
+}
+
+
+
+.undertags {
+	color: #5b5b5b;
+  	font-family: Avenir,Helvetica,Arial,"Lucida Grande",sans-serif;
+  	font-size: 1.2em;
+  	letter-spacing: .02em;
+  	font-weight: 400;
+  	padding-bottom: 2em;
+}
+
+
+.sec_icons {
+	height: 60px;
+	width: 60px;
+}
+
+
+
+#SECTION_1 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 936px;
+    min-height: 600px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: 1903px;
+    perspective-origin: 951.5px 468px;
+    transform-origin: 951.5px 468px;
+    background: rgb(40, 84, 161) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 14px/14px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 20px;
+}/*#SECTION_1*/
+
+#SECTION_1:before {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 896px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    perspective-origin: 0px 448px;
+    transform-origin: 0px 448px;
+    content: '';
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 14px/14px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#SECTION_1:before*/
+
+#DIV_2 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 185px;
+    max-width: 960px;
+    text-align: left;
+    vertical-align: middle;
+    width: 960px;
+    perspective-origin: 480px 92.5px;
+    transform-origin: 480px 92.5px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 14px/14px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_2*/
+
+#FORM_3 {
+    box-sizing: border-box;
+    color: rgb(97, 179, 234);
+    height: 185px;
+    text-align: center;
+    width: 960px;
+    perspective-origin: 480px 92.5px;
+    transform-origin: 480px 92.5px;
+    border: 0px none rgb(97, 179, 234);
+    font: normal normal 300 normal 64px/64px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    margin: 0px;
+    outline: rgb(97, 179, 234) none 0px;
+}/*#FORM_3*/
+
+#DIV_4 {
+    box-sizing: border-box;
+    color: rgb(97, 179, 234);
+    height: 88px;
+    text-align: center;
+    width: 960px;
+    perspective-origin: 480px 44px;
+    transform-origin: 480px 44px;
+    border: 0px none rgb(97, 179, 234);
+    font: normal normal 300 normal 64px/64px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(97, 179, 234) none 0px;
+}/*#DIV_4*/
+
+#INPUT_5 {
+    background-position: 0px 0px;
+    color: rgb(255, 255, 255);
+    height: 88px;
+    width: 192px;
+    perspective-origin: 96px 44px;
+    transform-origin: 96px 44px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border-top: 0px none rgb(255, 255, 255);
+    border-right: 0px none rgb(255, 255, 255);
+    border-bottom: 1px dotted rgb(255, 255, 255);
+    border-left: 0px none rgb(255, 255, 255);
+    font: normal normal 300 normal 64px/normal 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 0px;
+}/*#INPUT_5*/
+
+#A_6 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    height: 57px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 320px;
+    perspective-origin: 160px 28.5px;
+    transform-origin: 160px 28.5px;
+    background: rgb(76, 206, 173) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgba(0, 0, 0, 0);
+    border-right: 1px solid rgba(0, 0, 0, 0);
+    border-bottom: 2px solid rgb(61, 175, 148);
+    border-left: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 600 normal 16px/54px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    margin: 40px 0px 0px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 0px 30px;
+    transition: all 0.1s ease-out 0s;
+}/*#A_6*/
+
+#DIV_7 {
+    bottom: 40px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 64px;
+    left: 0px;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    width: 1903px;
+    align-self: stretch;
+    perspective-origin: 951.5px 32px;
+    transform-origin: 951.5px 32px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/16px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_7*/
+
+#P_8, #P_12 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 32px;
+    text-align: center;
+    white-space: nowrap;
+    width: 1903px;
+    perspective-origin: 951.5px 16px;
+    transform-origin: 951.5px 16px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/16px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_8, #P_12*/
+
+#SPAN_9, #SPAN_13 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    white-space: nowrap;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/16px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#SPAN_9, #SPAN_13*/
+
+#A_10, #A_11 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 600 normal 16px/32px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#A_10, #A_11*/
+
+#A_14 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 600 normal 16px/32px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#A_14*/
+
+#A_15 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: text;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/32px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#A_15*/
+
+
+.fin_form{
+    color: rgb(92, 107, 126);
+    border: 0px none rgb(92, 107, 126);
+    font: normal normal 300 normal 26px/36px 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(92, 107, 126) none 0px;
+
+}
+
+.fin_entry {
+    color: rgb(248, 107, 79);
+    height: 37px;
+    width: 90px;
+    perspective-origin: 37.5px 18.5px;
+    transform-origin: 37.5px 18.5px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border-top: 0px none rgb(248, 107, 79);
+    border-right: 0px none rgb(248, 107, 79);
+    border-bottom: 1px solid rgb(248, 107, 79);
+    border-left: 0px none rgb(248, 107, 79);
+    font: normal normal 300 normal 26px/normal 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    outline: rgb(248, 107, 79) none 0px;
+    padding: 0px;
+    transition: border-bottom-width 0.2s ease 0s, border-bottom-color 0.2s ease 0s;
+
+}
+
+
+
+
