@@ -29,13 +29,13 @@
 .sec_gray_clean {
 	padding-top: 4em;
 	padding-bottom: 5em;
-	background-color: #eee;
+	background-color: #f6f6f6;
 }
 
 
 
 .section_4 {
-	background-color: #eee;
+	background-color: #f6f6f6;
 }
 
 .rule-in-sec {
@@ -79,6 +79,12 @@
 	height: 60px;
 	width: 60px;
 }
+
+
+.fin_questions {
+    margin-top: 10%;
+}
+
 
 
 
@@ -311,3 +317,6 @@
 
 
 
+label {
+    background-color: red;
+}
